@@ -1,0 +1,62 @@
+{
+    "customers": [
+        {
+            "user_id": 1,
+            "user_name": "Toto",
+            "user_title": "Mr",
+            "user_pets": [
+                {
+                    "pet_name": "Danny",
+                    "pet_type": "Dog",
+                    "pet_age": 4
+                },
+                {
+                    "pet_name": "Hayes",
+                    "pet_type": "Cat",
+                    "pet_age": 6
+                }
+            ]
+        },
+        {
+            "user_id": 2,
+            "user_name": "Tata",
+            "user_title": "Mme",
+            "user_pets": [
+            ]
+        },
+        {
+            "user_id": 3,
+            "user_name": "Titi",
+            "user_title": "Mr",
+            "user_pets": [
+                {
+                    "pet_name": "Plissken",
+                    "pet_type": "Snake",
+                    "pet_age": 12
+                }
+            ]
+        },
+        {
+            "user_id": 4,
+            "user_name": "Tutu",
+            "user_title": "Mr",
+            "user_pets": [
+                {
+                    "pet_name": "Larry",
+                    "pet_type": "Bird",
+                    "pet_age": 1
+                },
+                {
+                    "pet_name": "Star",
+                    "pet_type": "Fish",
+                    "pet_age": 0.5
+                },
+                {
+                    "pet_name": "Peter",
+                    "pet_type": "Spider",
+                    "pet_age": 0.2
+                }
+            ]
+        }
+    ]
+}
